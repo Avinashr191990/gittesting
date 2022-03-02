@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootDemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("testing- 1st commit");
+		System.out.println("testing- 2st commit");
+		System.out.println("am added extra..");
 		SpringApplication.run(SpringBootDemoApplication.class, args);
 	}
 
